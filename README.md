@@ -1,1 +1,3 @@
 # Autonomous_Navigation
+
+SLAM uses a complex array of computations,algorithms and sensory inputs to navigate in a previously unknown environment or revise a known map.SLAM is the mapping of an environment using the continual interplay between the mapping device, the robot, and the location it is in.The robot not only maps the area as it interacts with it, but it also determines its own position at the same time.The robot or unmanned vehicle is at the centre of the problem-solving process.The robot used must have superior odometry capabilities.Odometry is a measurement of a robot's ability to estimate its own position.Normally, the robot calculates this based on the position of its wheels. 
